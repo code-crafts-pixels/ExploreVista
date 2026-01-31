@@ -28,7 +28,7 @@ With a focus on ***performance***, ***scalability***, and ***user experience***,
 ## 📸 Screenshots
 (Add screenshots of Home Page, Packages Page, Booking Page, Admin Dashboard)
 
-<a href="https://github.com/code-crafts-pixels/ExploreVista" target="_blank">
+<a href="https://github.com/code-crafts-pixels/ExploreVista">
   <img src="https://github.com/user-attachments/assets/d62a3639-55e7-4650-87d9-c0ef6a620b1e"
        alt="ExploreVista Screenshot 1"
        width="600">
